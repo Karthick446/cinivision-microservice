@@ -1,0 +1,7 @@
+TO RUN ZIPKIN SERVER:java -jar zipkin-server.jar
+
+TO RUN ZOOKEPER:zookeeper-server-start.bat ../../config/zookeeper.properties
+
+if error occur -> set CLASSPATH=
+
+TO RUN KAFKA:kafka-server-start.bat ../../config/server.properties
