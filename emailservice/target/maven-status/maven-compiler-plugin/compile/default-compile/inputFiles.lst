@@ -1,0 +1,6 @@
+D:\eclipse-workspace\CinivisionMicroservice\emailservice\src\main\java\com\example\karthick\emailservice\business\abstracts\EmailService.java
+D:\eclipse-workspace\CinivisionMicroservice\emailservice\src\main\java\com\example\karthick\emailservice\business\concretes\EmailServiceImpl.java
+D:\eclipse-workspace\CinivisionMicroservice\emailservice\src\main\java\com\example\karthick\emailservice\config\FreeMarkerEmailTemplateConfig.java
+D:\eclipse-workspace\CinivisionMicroservice\emailservice\src\main\java\com\example\karthick\emailservice\dto\EmailMessageKafkaDto.java
+D:\eclipse-workspace\CinivisionMicroservice\emailservice\src\main\java\com\example\karthick\emailservice\EmailserviceApplication.java
+D:\eclipse-workspace\CinivisionMicroservice\emailservice\src\main\java\com\example\karthick\emailservice\kafka\KafkaConsumer.java
